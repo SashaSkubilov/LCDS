@@ -190,4 +190,4 @@
 ![График прогресса](mockups/progress-chart.png)
 
 **Напоминания:**
-![Напоминания](mockups/reminders.png)
+![Напоминания](mockups/reminders.png) 
